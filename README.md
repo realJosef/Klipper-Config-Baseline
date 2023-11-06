@@ -1,6 +1,6 @@
 # Klipper Config Baseline
 
-My basis for all future clipper configurations.
+My basis for all future Klipper configurations.
 
 ## Hardware
 ***Voron 2.4r2:***
